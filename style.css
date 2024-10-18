@@ -377,7 +377,14 @@ form button {
     align-items: center;    
     margin-top: 125px;
     margin-bottom: 125px;}
-
+    .contactt h2 {
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;    
+        margin-top: 125px;
+        margin-bottom: 125px;
+    }
     .products-grid {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
